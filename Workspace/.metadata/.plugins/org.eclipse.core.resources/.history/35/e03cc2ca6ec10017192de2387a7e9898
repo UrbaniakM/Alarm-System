@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/9.0.1">
+   <children>
+      <AnchorPane layoutX="-121.0" layoutY="-59.0" prefHeight="261.0" prefWidth="655.0">
+         <children>
+            <Button fx:id="myButton" layoutX="396.0" layoutY="137.0" mnemonicParsing="false" text="Zatwierdz" />
+            <PasswordField layoutX="179.0" layoutY="131.0" promptText="Haslo" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

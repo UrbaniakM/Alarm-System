@@ -1,0 +1,16 @@
+package ch.makery.address;
+
+import javafx.fxml.FXML;
+import javafx.scene.control.Button;
+
+public class EventHandlingController {
+	
+	@FXML
+	private Button myButton;
+	@FXML
+	private void ButtonAction() {
+		// Handle Button event.
+		myButton.setOnAction((event) -> {
+		
+		});
+}}
