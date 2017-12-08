@@ -1,0 +1,1 @@
+W folderze Monitoring/DO_SKOPIOWANIA_NA_TELEFON znajduja sie pliki, ktore nalezy skopiowac byle gdzie na telefon i potem za pomoca eksploratora plikow z poziomu telefonu zainstalowac

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Monitoring</string>
+    <string name="textView">Polaczono z baza !</string>
+    <string name="button1">START THE APP</string>
+    <string name="channel_name">NOTIFIC</string>
+    <string name="channel_desc">NOTIFIC desc</string>
+    <!-- defining the array for our spinner -->
+    <array name="teams">
+        <item>Avengers</item>
+        <item>Justice League</item>
+        <item>X-Men</item>
+        <item>Fantastic Four</item>
+    </array>
+</resources>
